@@ -70,7 +70,6 @@
     <Compile Include="Maps\MapsProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Security\MD5Helper.cs" />
-    <Compile Include="Session\SessionManager.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
