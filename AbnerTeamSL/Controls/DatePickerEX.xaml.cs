@@ -1,19 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows.Media.Animation;
-using System.Windows.Shapes;
 using System.Windows.Controls.Primitives;
 
 namespace AbnerTeamSL.Controls
 {
-	public static class ControlsHelper
+    public static class ControlsHelper
 	{
 		/// <summary>
 		/// 扩展DependencyObject Descendents方法，递归找到制定的控件

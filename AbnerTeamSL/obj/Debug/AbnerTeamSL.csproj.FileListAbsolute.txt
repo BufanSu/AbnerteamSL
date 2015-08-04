@@ -1221,3 +1221,4 @@ E:\AbnerTeam\AbnerTeamSL\AbnerTeamSL\obj\Debug\Controls\DatePickerEX.g.cs
 E:\AbnerTeam\AbnerTeamSL\AbnerTeamSL\obj\Debug\AbnerTeamSL.g.resources
 E:\AbnerTeam\AbnerTeamSL\AbnerTeamSL\obj\Debug\AbnerTeamSL.dll
 E:\AbnerTeam\AbnerTeamSL\AbnerTeamSL\obj\Debug\AbnerTeamSL.pdb
+E:\AbnerTeam\AbnerTeamSL\AbnerTeamSL\obj\Debug\AbnerTeamSL.csprojResolveAssemblyReference.cache
